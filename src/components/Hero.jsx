@@ -6,12 +6,12 @@ const HeroSection = () => {
       <div className="hero-content">
 
 
-        <h1> YOUR FEET DESERVE THE BEST</h1>
-        <p>YOUR FEET DESERVE THE BETTER AND WE ARE HRE TO HELP  YOU WITH OUR SHOES. YOUR FEET DESERVE THE BEST AND WE ARE HERE TO HELP YOU</p>
+        <h1> PRESENTING THE BEST IN QUALITY...</h1>
+        <p>IF YOU WANT BETTER & COMPFORTABLE THEN  WE ARE HERE TO HELP YOU WITH OUR PRODUCT.TRY THIS LONG-LASTIC & BASED QUALITY SHOES... </p>
     
         <div className="hero-btn"> 
-        <button>Shop Now</button>
-        <button className="secondary-btn">Category</button>
+        <button>Shop Now </button>
+        <button className="secondary-btn">See Feedback</button>
         </div>
 
         <div className="Shopping">
